@@ -1,4 +1,3 @@
-```markdown
 # TheraPi: Your Ultimate Mental Wellness Companion 🌟
 
 Welcome to TheraPi, the pinnacle of mental wellness technology! TheraPi is not just another therapy platform – it's a revolutionary ecosystem designed to transform the way you approach mental health care.
@@ -42,4 +41,3 @@ Got questions, feedback, or just want to say hello? We'd love to hear from you! 
 ## Let's Transform Mental Health Together! 🌈
 
 Join us on our mission to revolutionize mental health care and make mental wellness accessible to all. Together, we can create a world where everyone has the support and resources they need to thrive. Welcome to TheraPi – your ultimate mental wellness companion!
-```
