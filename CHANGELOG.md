@@ -8,6 +8,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- Frontend registration form for members and therapists.
+- Enhanced input validation for registration forms.
+- Backend functionality for member and therapist registration.
+- Integration of Pi Network API for payment processing.
+- Styling improvements to frontend for enhanced user experience.
+
+### Changed
+- Improved security measures for handling user data.
+- Refactored backend code for better organization and maintainability.
+- Updated frontend design for better aesthetics.
+
+## [Unreleased]
+
+### Added
 - New feature: User-friendly appointment scheduling system that enhances the user experience.
 - Implemented functionality: Performance optimization techniques to improve response time.
 - Integration with external service: Partnered with a video conferencing platform for virtual therapy sessions.
